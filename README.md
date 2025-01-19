@@ -1,4 +1,5 @@
 This is a Kotlin Multiplatform project targeting Android, iOS.
+this project is sample for detecting text from camera in android and ios.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
